@@ -1,0 +1,8 @@
+#KiCad
+*-backups
+*_prl
+fp-info-cache
+
+#General
+*.bak
+*fab*
