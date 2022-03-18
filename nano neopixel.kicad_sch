@@ -5,8 +5,10 @@
   (paper "A4")
 
   (title_block
+    (title "NeoPixel driver")
     (date "3/17/2022")
-    (rev "1.1")
+    (rev "1.0")
+    (company "FRC 4488 - SHOCKWAVE")
   )
 
   (lib_symbols
